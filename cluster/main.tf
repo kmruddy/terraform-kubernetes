@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "hashicorp-team-da-beta"
+    organization = "TFTMM"
 
     workspaces {
       name = "qa-kubernetes-cluster"
